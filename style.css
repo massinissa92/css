@@ -1,23 +1,23 @@
 body {
     font-family: 'Dosis', sans-serif;
-    background: #ffffff;
+    background: #EE2C2C;
     height: 100%;
     width: 100%;
     color: #ffffff;
-    background: -webkit-linear-gradient(bottom, #bababa, #ffffff);
+    background: -webkit-linear-gradient(bottom, #EE2C2C, #EE2C2C);
     /* For Safari */
-    background: -o-linear-gradient(top, #bababa, #ffffff);
+    background: -o-linear-gradient(top, #EE2C2C, #EE2C2C);
     /* For Opera */
-    background: -moz-linear-gradient(top, #bababa, #ffffff);
+    background: -moz-linear-gradient(top, #EE2C2C, #EE2C2C);
     /* For Firefox*/
-    background: linear-gradient(to top, #bababa, #ffffff);
+    background: linear-gradient(to top, #EE2C2C, #EE2C2C);
     /* Standard syntax */
 }
 
 a,
 a:focus,
 a:hover {
-    color: #ffffff;
+    color: #EE2C2C;
 }
 
 ::-webkit-scrollbar {
@@ -30,12 +30,12 @@ a:hover {
 
 ::-moz-selection {
     /* Code for Firefox */
-    color: #ffffff;
+    color: #EE2C2C;
     background: #EE2C2C;
 }
 
 ::selection {
-    color: white;
+    color: red;
     background: #EE2C2C;
 }
 
@@ -63,13 +63,13 @@ input:active {
 
 .site-gradient {
     background: #000000;
-    background: -webkit-linear-gradient(left bottom, #040157, #00775A);
+    background: -webkit-linear-gradient(left bottom, #EE2C2C, #EE2C2C);
     /* For Safari */
-    background: -o-linear-gradient(top right, #040157, #00775A);
+    background: -o-linear-gradient(top right, #EE2C2C, #EE2C2C);
     /* For Opera */
-    background: -moz-linear-gradient(top right, #14131f, #00775A);
+    background: -moz-linear-gradient(top right, #EE2C2C, #EE2C2C);
     /* For Firefox*/
-    background: linear-gradient(to top right, #040157, #00775A);
+    background: linear-gradient(to top right, #EE2C2C, #EE2C2C);
     /* Standard syntax */
     -webkit-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.25);
     -moz-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.25);
@@ -143,7 +143,7 @@ input:active {
 }
 
 #ytlink {
-    color: #000000;
+    color: #EE2C2C;
     text-align: center;
     padding: 1.5rem 0;
     margin: 0.25rem;
@@ -156,7 +156,7 @@ input:active {
 
 
 #thumbdloadbtn {
-    color: #ffffff;
+    color: #EE2C2C;
     padding: 0.75rem;
     border-radius: 15rem;
     letter-spacing: 0.5rem;
@@ -169,7 +169,7 @@ input:active {
 }
 
 .thumbdloadbtn {
-    color: #ffffff;
+    color: #EE2C2C;
     border: none;
     white-space: nowrap;
     min-width: 50vw;

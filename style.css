@@ -31,16 +31,16 @@ a:hover {
 ::-moz-selection {
     /* Code for Firefox */
     color: #ffffff;
-    background: #00775A;
+    background: #EE2C2C;
 }
 
 ::selection {
     color: white;
-    background: #00775A;
+    background: #EE2C2C;
 }
 
 input {
-    caret-color: #040157;
+    caret-color: #EE2C2C;
 }
 
 input:active {
